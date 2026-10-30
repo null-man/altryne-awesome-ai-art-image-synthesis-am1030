@@ -2,6 +2,8 @@
 
 
 > A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools. Many of these tools come with "batteries included" and won't include colabs or python code you have to run. (for colabs see [this list](https://pharmapsychotic.com/tools.html))
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 ![](moore-law-ai-art.jpeg)
 
